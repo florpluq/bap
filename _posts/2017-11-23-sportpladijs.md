@@ -12,4 +12,4 @@ Winnaars van junior eurovisie songfestival komen!
 
 ### X!NK
 
-...
+Een band gaat nooit stuk
