@@ -1,8 +1,8 @@
 # functie uitschakelen met '#'
 # dubbele spatie voor de criteria behouden
 
-- name: Voorwoord
-  description: Voorwoord
+- name: Home
+  description: Home
   # folder: pages/
   permalink: /index 
   # fa-icon: icon-info
@@ -15,24 +15,12 @@
 
 - name: Kleur
   description: Kleur
-  # folder:
-  permalink: /kleur
+  folder: pages/kleur/
+  permalink: kleur/
   # fa-icon: icon-info
 
-  - name: Typografie
-  description: Typografie
-  # folder:
-  permalink: /typografie
+- name: Styleguide
+  description: Stijlgids voor de Huistijlgids
+  # folder: pages/stijlgids
+  permalink: /stijlgids
   # fa-icon: icon-info
-  
-  - name: Fotografie
-  description: Fotografie
-  # folder:
-  permalink: /fotografie
-  # fa-icon: icon-info
-
-- name: Templates
-  description: Templates
-  folder: pages/templates/
-  permalink: templates/
-  # fa-icon: icon-graduation-cap

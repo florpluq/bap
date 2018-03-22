@@ -1,10 +1,11 @@
 ---
-layout: vertical
+# layout: vertical
 permalink: logo/
 published: true
 title: Logo intro
 ---
-<h1>Het beste logo ooit</h1>
+
+# Het beste logo ooit
 
 ## Consectetur adipiscing elit.
 
